@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Candy Bar</string>
+    <string name="candy_bar_party">Candy Bar Party</string>
+    <string name="lollipop">Lollipop</string>
+    <string name="to_order_press_big_candy_button">..to order, press big candy button...</string>
+    <string name="selected">Selected</string>
+    <string name="candy">Candy</string>
+    <string name="gum">Gum</string>
+    <string name="jelly">Jelly</string>
+    <string name="pepper">Pepper</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="ordering_candy">Ordering Candy</string>
+    <string name="just_a_single_step_again_to_tasting_beautiful_moment_on_your_own_so_just_click_on_it">...just a single step again to tasting beautiful moment on your own, so just click on it...</string>
+    <string name="order">Order</string>
+    <string name="share">Share</string>
+    <string name="home">Home</string>
+    <string name="order_this">Order This</string>
+    <string name="exit_app">Exit App</string>
+    <string name="buy">Buy</string>
+    <string name="lollipops_are_the_favorite_sugar_candy_that_has_existed_since_time_immemorial_the_origin_of_lollipops_is_thought_to_have_come_from_the_way_ancient_humans_collected_honey_using_sticks_they_then_consume_the_honey_that_has_been_collected_directly_from_the_stick_the_forerunner_of_a_more_modern_lollipop_is_thought_to_have_been_found_in_the_arab_chinese_and_ancient_egyptian_cultures_at_that_time_their_people_made_candy_by_mixing_fruits_or_nuts_with_honey_and_then_stabbed_with_a_stalk_to_make_it_easier_to_enjoy">Lollipops are the favorite sugar candy that has existed since time immemorial. The origin of lollipops is thought to have come from the way ancient humans collected honey using sticks. They then consume the honey that has been collected directly from the stick. The forerunner of a more modern lollipop is thought to have been found in the Arab, Chinese, and Ancient Egyptian cultures. At that time, their people made candyby mixing fruits or nuts with honey and then stabbed with a stalk to make it easier to enjoy.</string>
+    <string name="yay_order_succcess">yay...order succcess</string>
+    <string name="thank_you_for_ordering_and_just_enjoy_your_beautiful_taste">...thank you for ordering and just enjoy your beautiful taste..</string>
+    <string name="succes_girl">Succes Girl</string>
+    <string name="finish">Finish</string>
+</resources>
