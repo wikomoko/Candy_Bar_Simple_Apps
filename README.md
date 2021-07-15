@@ -28,3 +28,6 @@ All of things that we implement are:
 
 # Usaging
 This project can be use for any purposes, but remember to change Image Asset or just adding copyright of the Freepil and Undraw Author if you want to still using the imgades without change them. For the APK file can be downloaded and installed for all android phone but its requires minimum android version is 4.4 (Kitkat)
+
+# Design File
+The .fig (Figma File) was included on this project, just search for "Figma Design File". After that, open Figma.com and just drag the .fig file into www.Figma.com
