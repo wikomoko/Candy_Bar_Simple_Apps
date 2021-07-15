@@ -9,13 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_candybar_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CandyBar">
-        <activity android:name=".successPage" android:screenOrientation="portrait" android:theme="@style/Theme.CandyBar">
+        <activity android:name=".SplashScreen" android:screenOrientation="portrait" android:theme="@style/Theme.CandyBar">
+
         </activity>
+        <activity
+            android:name=".successPage"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.CandyBar"></activity>
         <activity
             android:name=".orderPage"
             android:screenOrientation="portrait"
-            android:theme="@style/Theme.CandyBar.custom">
-        </activity>
+            android:theme="@style/Theme.CandyBar.custom"></activity>
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait">
